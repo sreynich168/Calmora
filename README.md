@@ -29,10 +29,10 @@ Calmora is a peaceful, user-friendly platform designed to help people relax and 
 ![Videos](calm3.png)
 
 ### 🛕 Spiritual Content
-![Spiritual](calm4.png)
+![Spiritual](calm5.png)
 
 ### ⭐ Favorites Page
-![Favorites](calm5.png)
+![Favorites](calm6.png)
 
 > 🔁 Add your actual images in the `/screenshots/` folder with matching filenames.
 
